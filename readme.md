@@ -1,8 +1,8 @@
-<!-- # ejecutamos el comando con npm init -y en la carpeta server para crear el package.json
+<!--  ejecutamos el comando con npm init -y en la carpeta server para crear el package.json
 
-# instalar express y mysql2 con el comando npm i express mysql2
+ instalar express y mysql2 con el comando npm i express mysql2
 
-# y npm install nodemon -D para crearlo como dependencia y en package.json añadir en el script "start": "nodemon src/index.js"
+ y npm install nodemon -D para crearlo como dependencia y en package.json añadir en el script "start": "nodemon src/index.js"
 
 1 crear una bbdd que se llame releevant
 2 crear una tabla que se llame students con los campos name, lastname, gender, age
