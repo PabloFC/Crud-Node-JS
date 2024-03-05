@@ -1,4 +1,4 @@
-# ejecutamos el comando con npm init -y en la carpeta server para crear el package.json
+<!-- # ejecutamos el comando con npm init -y en la carpeta server para crear el package.json
 
 # instalar express y mysql2 con el comando npm i express mysql2
 
@@ -9,8 +9,8 @@
 3 Insertamos un registro para poder hacer consultas a esa tabla
 4 Empezar a crear endpoints en el server para hacer consultas a la bbdd
 5 Crear endpoints:
-*Traer la lista de estudiantes
-*Traer un estudiante por id
-*Crear un estudiante
-*Actualizar un estudiante
-\*borrar un estudiante
+6 Traer la lista de estudiantes
+7 Traer un estudiante por id
+8 Crear un estudiante
+9 Actualizar un estudiante
+10 borrar un estudiante -->
